@@ -1,5 +1,5 @@
 
-## Álvaro
+# Álvaro
 
 Software Engineer focused on:
 - Artificial Intelligence
@@ -10,9 +10,12 @@ Software Engineer focused on:
 Currently building AI-powered software and research-oriented systems.
 
 ---
+## Technologies
 
+Python · TypeScript · PyTorch · LangGraph · FastAPI · Docker · PostgreSQL · Redis · AWS · Kubernetes
+
+---
 ## Selected Projects
-
 ### Clinical AI Platform
 LLM-powered medical workflow system.
 
