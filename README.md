@@ -1,16 +1,23 @@
 ## Hi there 👋
+# Álvaro
 
-<!--
-**alvarogilarjona/alvarogilarjona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer focused on:
+- Artificial Intelligence
+- Medical AI systems
+- Backend architecture
+- Intelligent automation
 
-Here are some ideas to get you started:
+Currently building AI-powered software and research-oriented systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Selected Projects
+
+### Clinical AI Platform
+LLM-powered medical workflow system.
+
+### Medical RAG Pipeline
+Retrieval and reasoning system for biomedical data.
+
+### Traffic Simulation Engine
+Event-driven urban traffic simulation system.
