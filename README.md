@@ -1,5 +1,5 @@
 ## Hi there 👋
-#This is Álvaro
+#Álvaro
 
 Software Engineer focused on:
 - Artificial Intelligence
