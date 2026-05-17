@@ -30,3 +30,7 @@ Retrieval and reasoning system for biomedical data.
 
 ### Traffic Simulation Engine
 Event-driven urban traffic simulation system.
+--
+##My stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alvarogilarjona&theme=highcontrast&border_radius=8.2)](https://git.io/streak-stats)
