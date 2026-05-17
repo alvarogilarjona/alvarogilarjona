@@ -34,5 +34,5 @@ Event-driven urban traffic simulation system.
 <h2 align="center">My Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=alvarogilarjona&theme=highcontrast&border_radius=8.2" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=alvarogilarjona&theme=highcontrast&border_radius=8.2&mode=weekly" />
 </p>
