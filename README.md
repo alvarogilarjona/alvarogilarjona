@@ -22,6 +22,17 @@ Currently building AI-powered software and research-oriented systems.
 ---
 
 ## Selected Projects
+
+## FixedGap — Co-founder & Product Lead
+
+Post-stroke rehabilitation platform that captures 13 clinical biomarkers through computer vision — no hardware, no wearables, just a webcam.
+
+Built on MediaPipe hand tracking, browser-side ML models, and a clinical dashboard that generates automated session reports for neurologists. Correlates at ρ≈0.92 with the Fugl-Meyer Assessment Upper Extremity scale.
+
+🏆 Harvard HSIL Hackathon 2026 — Top 20 globally out of 14,000+ participants across 30+ countries.
+
+[fixedgap.com](https://fixedgap.com)
+
 ### Clinical AI Platform
 LLM-powered medical workflow system.
 
