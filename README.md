@@ -23,7 +23,7 @@ Currently building AI-powered software and research-oriented systems.
 
 ## Selected Projects
 
-## FixedGap — Co-founder & Product Lead
+## FixedGap — Co-founder
 
 Post-stroke rehabilitation platform that captures 13 clinical biomarkers through computer vision — no hardware, no wearables, just a webcam.
 
