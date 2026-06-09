@@ -33,11 +33,5 @@ Built on MediaPipe hand tracking, browser-side ML models, and a clinical dashboa
 
 [fixedgap.com](https://fixedgap.com)
 
-### Clinical AI Platform
-LLM-powered medical workflow system.
-
-### Medical RAG Pipeline
-Retrieval and reasoning system for biomedical data.
-
-### Traffic Simulation Engine
+## Traffic Simulation Engine
 Event-driven urban traffic simulation system.
